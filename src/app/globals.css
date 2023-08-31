@@ -6,3 +6,8 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
+
+body, input, textarea, button {
+  font-family: 'Roboto';
+  font-weight: 400;
+}
